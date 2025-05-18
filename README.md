@@ -1,0 +1,2 @@
+# NiceHash
+NiceHash Miner
